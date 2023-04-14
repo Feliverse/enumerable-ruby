@@ -38,5 +38,3 @@ module MyEnumerable
     end
   end
 end
-
-
